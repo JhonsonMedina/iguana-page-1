@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    width: 1280px;
+    
+}
+
+header h1{
+
+    font: normal normal medium 50px/59px Raleway;
+    text-align: center;
+    line-height: 73px;
+    
+}
+
+header img{
+    height: 727px;
+}
+
+.info{
+    
+    height: 348px;  
+    
+}
+
+.info p{
+    font: normal normal 300 16px/19px Raleway;
+    float: left;
+    width: 475px;
+    height: 197px;
+    margin: 76px 0px 75px 150px;
+}
+.info img{
+    
+    width: 399px;
+    height: 237px;
+    margin: 45px 150px 66px 106px;
+}
+
+.info-2{
+    background-color: #1E1A13;
+    height: 348px;
+}
+
+.info-2 h2{
+    font: normal normal medium 40px/47px Raleway;
+    text-align: center;
+    padding-top: 75px;
+}
+
+.info-2 .features{
+    font: normal normal 300 24px/29px Raleway;
+    display: inline-block;
+    margin-top: 50px;
+    
+    
+    
+}
+
+.features.f1{
+    margin-left: 200px;
+    margin-right: 238px;
+}
+
+.features.f2{
+    margin-right: 256px;
+}
+
+.features i{
+    display: block;
+    text-align: center;
+    margin-bottom: 16.2px;
+
+}
+
+.info-3{
+    
+    margin: 73px 150px;
+}
+.info-3 img{
+    display: inline-block;
+    width: 316px;
+    height: 202px;    
+}
+
+.info-3 .ig2{
+    margin-right: 10px;
+}
+.info-3 .ig3{
+    margin-right: 10px;
+}
+
+footer{
+    font: normal normal 300 20px/24px Raleway;
+    background-color: #1E1A13;
+    line-height: 102px;
+    text-align: center;
+    
+}
